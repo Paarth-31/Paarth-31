@@ -113,6 +113,26 @@ C++17 + SFML desktop app that renders 6 sorting algorithms (Bubble, Selection, I
 
 ---
 
+## 🔥 My GitHub Contributions
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paarth-31&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&sideLabels=a855f7&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&border_radius=8" width="70%"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Paarth-31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&ring_color=6366f1" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paarth-31&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" height="170"/>
+
+</div>
+
+---
 ## Competitive Programming
 
 <div align="center">
