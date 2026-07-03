@@ -127,8 +127,8 @@ C++17 + SFML desktop app that renders 6 sorting algorithms (Bubble, Selection, I
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paarth-31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&ring_color=6366f1" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paarth-31&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paarth-31&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paarth-31&theme=tokyonight" height="170"/>
 
 </div>
 
